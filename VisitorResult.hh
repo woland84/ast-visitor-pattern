@@ -1,0 +1,12 @@
+//
+// Created by Alex on 22/11/2016.
+//
+
+#ifndef VISITORPATTERN_VISITORRESULT_HH
+#define VISITORPATTERN_VISITORRESULT_HH
+
+class VisitorResult {
+
+};
+
+#endif //VISITORPATTERN_VISITORRESULT_HH
